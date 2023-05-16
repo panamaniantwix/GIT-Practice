@@ -1,0 +1,4 @@
+GIT is used for version control
+GIT is important fo future work experiences working with teams
+
+this is a change only in my personal branch
